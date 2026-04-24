@@ -20,7 +20,7 @@ I build multi-agent systems, graph-backed verification workflows, and CPU-effici
 ### 🚀 Featured Projects
 
 - **[Autonomous OSINT Agent](https://github.com/berkay123001/osint-agent):** Supervisor-based multi-agent OSINT system with Neo4j-backed verification, fallback search pipelines, and telemetry. *(Academic paper in progress)*
-- **[Air Defense System - TEKNOFEST](https://github.com/berkay123001/Air-Defense-System-TEKNOFEST):** Autonomous target tracking and engagement system. Achieved 5x inference optimization (10 FPS ➔ 50+ FPS) on CPU for real-time Edge AI performance.
+- **[Air Defense System - TEKNOFEST](https://github.com/berkay123001/Air-Defense-System-TEKNOFEST):** Autonomous target tracking and engagement system. Achieved native OpenVINO C++ edge optimization (13 FPS ➔ 83 FPS) on CPU for real-time performance with zero accuracy loss.
 - **[ArchGen AI](https://github.com/berkay123001/ArchGen):** LLM-based architecture simulation and structured software design exploration. *(Built for Google DeepMind Hackathon)*
 - **[HobbyFlow](https://github.com/berkay123001/HobbyFlow):** Project management desktop application built with Avalonia and Firebase.
 
