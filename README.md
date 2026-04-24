@@ -1,35 +1,35 @@
 # Hi, I'm Berkay Hasret 👋
 
-**AI Research Engineer & System Architect** | Software Engineering Student
+**Software Engineering Student | AI Agents, OSINT Systems, and ML Prototyping**
 
-I focus on the core mechanics of systems, orchestrating multi-agent architectures, and maximizing efficiency under constrained hardware resources. I am currently working on an academic paper focused on mitigating Large Language Model (LLM) hallucinations by designing hierarchical agent systems backed by graph database verification.
+I build multi-agent systems, graph-backed verification workflows, and CPU-efficient ML pipelines. I am currently working on an academic paper on hierarchical agent systems for OSINT research and verification.
 
 ### 🛠️ Technical Stack
 
-**Core:**
-*   **Languages:** Python, Go, C++, TypeScript
-*   **AI & Architecture:** Multi-Agent Systems, LangGraph, LLM Orchestration, RAG, Prompt Engineering
-*   **Optimization:** Edge AI (CPU Inference), YOLO Fine-tuning, TensorRT
+**Core**
+- **Languages:** Python, TypeScript
+- **LLM & Agents:** Multi-Agent Systems, LangGraph, RAG, LLM Orchestration, Prompt Engineering
+- **ML & CV:** YOLO Fine-tuning, CPU Inference, Feature Engineering, Ensemble Modeling
 
-**Tools & Infrastructure:**
-*   **Data & State:** Neo4j (Graph DB), Firebase (Firestore)
-*   **Deployment:** Linux (Ubuntu), Docker, ROS2
-*   **Frontend:** React 19, Avalonia (MVVM)
+**Additional**
+- **Languages:** Go, C++, C#, Java, SQL
+- **Data & State:** Neo4j, Firebase
+- **Infrastructure:** Linux (Ubuntu), Docker, ROS2
+- **Frontend:** React 19, Avalonia (MVVM)
 
-### 🚀 Featured Research & Engineering
+### 🚀 Featured Projects
 
-*   **Autonomous OSINT Agent:** Designing a hierarchical multi-agent system to mitigate LLM hallucinations via Neo4j graph-based verification. *(Academic Paper in Progress - Architecture & Research)*
-*   **[TEKNOFEST Air Defense](https://github.com/berkay123001):** Optimized YOLO-based object detection for CPU-only inference, achieving an improvement from 10 FPS to 50+ FPS for real-time tracking.
-*   **[ArchGen AI](https://github.com/berkay123001/ArchGen):** Generative UI patterns for dynamic software architecture simulation. *(Built for Google DeepMind Hackathon)*
-*   **[HobbyFlow](https://github.com/berkay123001/HobbyFlow):** Full-stack, modern project management system built with C# (Avalonia) and Firebase.
+- **Autonomous OSINT Agent:** Supervisor-based multi-agent OSINT system with Neo4j-backed verification, fallback search pipelines, and telemetry. *(Academic paper in progress)*
+- **[TEKNOFEST Air Defense](https://github.com/berkay123001):** Optimized YOLO-based object detection for CPU-only inference, improving throughput from 10–20 FPS to 50+ FPS for real-time tracking.
+- **[ArchGen AI](https://github.com/berkay123001/ArchGen):** LLM-based architecture simulation and structured software design exploration. *(Built for Google DeepMind Hackathon)*
+- **[HobbyFlow](https://github.com/berkay123001/HobbyFlow):** Project management desktop application built with Avalonia and Firebase.
 
-### 📈 Machine Learning Prototyping (Kaggle)
-*   **Resource-Efficient Modeling:** Developed competitive baseline and ensemble models under strict compute constraints.
-*   *Predicting Road Accident Risk:* Top %31 (1299/4082) - Feature engineering focus.
-*   *Real Estate Demand Prediction:* Top %11.3 (88/777) - Rapid prototyping.
+### 📈 Machine Learning Prototyping
 
-### 📫 Let's Connect
+- **Predicting Road Accident Risk:** Top 31% (1299/4082) — feature engineering focused
+- **Real Estate Demand Prediction:** Top 11.3% (88/777) — rapid prototyping
+- **Predicting Loan Payback:** Top 25% (918/3724) as a solo entrant
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:berkayyihasret@gmail.com)
+### 📫 Contact
 
-*Feel free to reach out for collaborations, research discussions, or just to talk about agent architectures.*
+- **Email:** [berkayyihasret@gmail.com](mailto:berkayyihasret@gmail.com)
